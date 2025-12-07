@@ -1,0 +1,19 @@
+{
+  "name": "whatsapp-banner",
+  "version": "2.4.1",
+  "description": "WhatsApp Account Number Banner Tool",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "os": "^0.1.2",
+    "child_process": "^1.0.2",
+    "net": "^1.0.2",
+    "dns": "^0.2.2",
+    "crypto": "^1.0.1"
+  },
+  "author": "Mxhytz Corp",
+  "license": "PROPRIETARY"
+}
